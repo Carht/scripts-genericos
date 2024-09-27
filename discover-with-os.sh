@@ -3,6 +3,7 @@
 ########################################################################
 # Título: discover-with-os.sh
 # Autor: Charte
+# Url: https://gitlab.com/Charte/scripts-genericos/-/blob/main/discover-with-os.sh
 # Requiere: nmap
 # Categoría: Administración de sistemas
 ########################################################################
